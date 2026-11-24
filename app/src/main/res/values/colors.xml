@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fundo">#140C09</color>
+    <color name="fundo_cartao">#2A1812</color>
+    <color name="burgundy">#7A1F2B</color>
+    <color name="burgundy_escuro">#4E1018</color>
+    <color name="ouro">#E0C27A</color>
+    <color name="ouro_fosco">#8C7350</color>
+    <color name="pergaminho">#F6EBD4</color>
+    <color name="pergaminho_fraco">#CDB892</color>
+    <color name="campo_fundo">#1C110D</color>
+    <color name="erro">#F0B4A8</color>
+    <color name="mensagem">#F3D2C4</color>
+</resources>

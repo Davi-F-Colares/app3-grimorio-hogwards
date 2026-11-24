@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grimório de Hogwarts</string>
+    <string name="titulo_menu">Grimório de Hogwarts</string>
+    <string name="subtitulo_menu">Consulte personagens e criaturas do mundo bruxo.</string>
+    <string name="acao_personagem">Buscar personagem</string>
+    <string name="acao_criatura">Buscar criatura</string>
+    <string name="descricao_personagem">Digite parte do nome. Ex.: Weasley</string>
+    <string name="descricao_criatura">Digite o nome completo. Ex.: Hippogriff</string>
+    <string name="titulo_personagem">Busca de personagem</string>
+    <string name="titulo_criatura">Busca de criatura</string>
+    <string name="hint_personagem">Parte do nome</string>
+    <string name="hint_criatura">Nome completo da criatura</string>
+    <string name="buscar">Buscar</string>
+    <string name="voltar">Voltar</string>
+    <string name="erro_vazio">Digite um nome para buscar.</string>
+    <string name="erro_curto">Digite pelo menos 3 caracteres.</string>
+    <string name="nenhum_personagem">Nenhum personagem encontrado</string>
+    <string name="nenhuma_criatura">Nenhuma criatura encontrada</string>
+    <string name="erro_consulta">Sem conexão ou falha no servidor. Tente novamente.</string>
+    <string name="imagem_indisponivel">Imagem indisponível</string>
+    <string name="rotulo_nome">Nome completo</string>
+    <string name="rotulo_especie">Espécie</string>
+    <string name="rotulo_casa">Casa</string>
+    <string name="rotulo_nome_criatura">Nome</string>
+    <string name="carregando">Consultando o Grimório</string>
+</resources>
